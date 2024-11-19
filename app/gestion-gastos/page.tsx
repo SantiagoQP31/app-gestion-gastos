@@ -313,7 +313,7 @@ export default function GestionGastos() {
                                 <Progress 
                                   value={porcentaje} 
                                   className="mt-2"
-                                  indicatorClassName={porcentaje > 100 ? "bg-red-500" : ""}
+                                  //indicatorClassName={porcentaje > 100 ? "bg-red-500" : ""}
                                 />
                               </div>
                             )
